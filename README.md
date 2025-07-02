@@ -28,7 +28,7 @@ This Manim animation includes:
 
 ## 🎥 Animation Preview
 
-![Time Value of Money](assets/TVMScene.gif)
+![Time Value of Money](TVMScene.gif)
 
 ---
 
