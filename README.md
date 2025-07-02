@@ -42,5 +42,5 @@ University of Huddersfield
 
 ## 🙏 Acknowledgements
 
-This animation script was inspired by the excellent work of [@Dipesh Bhattarai](https://github.com/dipes08).  
+This animation script was inspired by the excellent work of [@dipes08](https://github.com/dipes08).  
 His contributions to Manim-based finance visualizations served as a key reference for this project.
