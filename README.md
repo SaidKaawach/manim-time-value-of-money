@@ -1,31 +1,31 @@
 # 💸 Time Value of Money – Manim Animation
 
-This animation visually explains a fundamental question in Finance:  
-**How much is £5 worth after one year at 25% interest?**
+This animation visually explains a fundamental question in finance:  
+**How much is £5 worth after one year at 25% interest?**  
 **How much is £5 worth after fifty years at 5% interest?**
 
 ---
 
 ## 📘 Scenario Explained
 
-> **Questions**:  
-> If you invest **£5** today at an **annual interest rate of 25%**, how much will it be worth in **1 year**?
-> If you invest **£5** today at an **annual interest rate of 5%**, how much will it be worth in **50 year**?
+> **Questions:**  
+> If you invest **£5** today at an **annual interest rate of 25%**, how much will it be worth in **1 year**?  
+> If you invest **£5** today at an **annual interest rate of 5%**, how much will it be worth in **50 years**?
 
-These Manim animations includes:
+These Manim animations include:  
 - Timeline from Year 0 to Year 1  
 - A £5 banknote transforming into £6.25  
-- A 25% interest "coin" added to the note
-- A 5% compounded interest
-- A summary transformation
+- A 25% interest "coin" added to the note  
+- A 5% compounded interest example  
+- A summary transformation  
 
 ---
 
 ## 🧰 Built With
 
-- 🧮 [Manim Community Edition](https://docs.manim.community/en/stable/)
-- 🎞️ Rendered in 1920x1080 at 60 fps
-- 📚 Jupyter + `%manim` cell rendering
+- 🧮 [Manim Community Edition](https://docs.manim.community/en/stable/)  
+- 🎞️ Rendered in 1920×1080 at 60 fps  
+- 📚 Jupyter Notebook with `%manim` cell rendering  
 
 ---
 
@@ -33,12 +33,11 @@ These Manim animations includes:
 
 ![Time Value of Money](TVMScene.gif)
 
-
 ---
 
 ## 🎥 Animation 2 Preview
 
-![Compunded Interest](compunded.gif)
+![Compounded Interest](compounded.gif)
 
 ---
 
